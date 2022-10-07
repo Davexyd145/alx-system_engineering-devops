@@ -1,0 +1,2 @@
+#!/bib/bash
+chown -h vincen:staff _hello
